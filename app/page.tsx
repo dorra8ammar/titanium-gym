@@ -27,3 +27,5 @@ export default function HomePage() {
     </div>
   )
 }
+
+title: "Titanium Gym | Salle de sport moderne en Tunisie",
