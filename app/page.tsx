@@ -27,3 +27,5 @@ export default function HomePage() {
     </div>
   )
 }
+
+<h1>Atteignez vos objectifs forme avec Titanium Gym</h1>
