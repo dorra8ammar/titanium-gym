@@ -27,3 +27,5 @@ export default function HomePage() {
     </div>
   )
 }
+
+title: "Titanium Gym - Coaching, fitness et musculation en Tunisie",
